@@ -1,0 +1,60 @@
+body {
+    margin:0;
+    background:#d65252;
+    font-family:Arial, sans-serif;
+    }
+    
+    .pagina {
+    width:900px;
+    margin:50px auto;
+    }
+    
+    .card {
+    background:#e27673;
+    padding:40px;
+    border-radius:15px;
+    position:relative;
+    }
+    
+    .titulo {
+    text-align:center;
+    margin-bottom:30px;
+    color: white;
+    }
+    
+    p {
+    font-weight:bold;
+    line-height:1.6;
+    color: white;
+    }
+    
+    .pagamentos {
+    margin-top:20px;
+    }
+    
+    .texto-final {
+    margin-top:60px;
+    }
+
+    .horarios {
+    font-weight:bold;
+    line-height:1.6;
+    color: white;
+    margin: top;
+    padding-bottom: 20px;
+            
+    }
+    
+    .voltar {
+    position:absolute;
+    bottom:15px;
+    right:15px;
+    width:110px;
+    height:40px;
+    border:none;
+    border-radius:12px;
+    background:#d9d9d9;
+    font-size:18px;
+    font-weight:bold;
+    cursor:pointer;
+}
